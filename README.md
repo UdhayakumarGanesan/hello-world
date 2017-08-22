@@ -1,3 +1,3 @@
 # hello-world
 start the process
-hi everyone, this is first edit on the branch
+load some neccessary things at the level of processing situation!
