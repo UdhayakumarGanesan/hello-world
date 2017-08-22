@@ -1,3 +1,3 @@
 # hello-world
-we make a file
+start the process
 hi everyone, this is first edit on the branch
