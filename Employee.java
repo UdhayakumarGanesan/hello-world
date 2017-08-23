@@ -4,6 +4,7 @@ public static void main(String args[]){
 System.out.println("Employee details");
     System.out.println("employee"+i);
     System.out.println("employee department:");
+    System.out.println("********************");
   }
 }
 }
