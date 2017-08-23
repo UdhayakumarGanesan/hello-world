@@ -6,5 +6,5 @@ System.out.println("Employee details");
     System.out.println("***********")
     System.out.println("employee department:");
   }
-}
+    }
 }
