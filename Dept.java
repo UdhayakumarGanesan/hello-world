@@ -1,6 +1,8 @@
 public class Dept{
 public static void main(String args[]){
-  for()
+for()
+  {
   System.out.println("enter your department names::");
+  }
 }
 }
