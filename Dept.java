@@ -1,7 +1,5 @@
 public class Dept{
-  //department information
-  //give entire department details
-  //don't give any other details
+  //give each and every details in department folder
 public static void main(String args[]){
 for(;;)
 {
