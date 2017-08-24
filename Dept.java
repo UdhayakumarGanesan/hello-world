@@ -1,7 +1,6 @@
 public class Dept{
   //department information
-  //give entire department details
-  //don't give any other details
+  //don't give other info
 public static void main(String args[]){
 for(;;)
 {
