@@ -1,4 +1,5 @@
 public class Dept{
+  //department information 
 public static void main(String args[]){
 for(;;)
 {
